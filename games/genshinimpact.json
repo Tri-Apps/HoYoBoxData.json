@@ -1,0 +1,12 @@
+{
+    "id": "genshinimpact",
+    "name_translations": {
+        "zh": "原神",
+        "en": "Genshin Impact",
+        "jp": "原神",
+        "kr": "원신"
+    },
+    "icon": "https://cdn.hoyobox.dev/static/images/games/genshinimpact/icon.png",
+    "release_date": "2020-09-26",
+    "latest_version": "4.1.0"
+}

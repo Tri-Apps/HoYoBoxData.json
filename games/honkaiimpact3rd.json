@@ -1,0 +1,12 @@
+{
+    "id": "honkaiimpact3rd",
+    "name_translations": {
+        "zh": "崩坏3",
+        "en": "Honkai Impact 3rd",
+        "jp": "崩壊3rd",
+        "kr": "붕괴3rd"
+    },
+    "icon": "https://cdn.hoyobox.dev/static/images/games/honkaiimpact3rd/icon.png",
+    "release_date": "2016-10-14",
+    "latest_version": "7.1.0"
+}

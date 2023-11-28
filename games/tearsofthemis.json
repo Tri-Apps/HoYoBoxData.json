@@ -1,0 +1,12 @@
+{
+    "id": "tearsofthemis",
+    "name_translations": {
+        "zh": "未定事件簿",
+        "en": "Tears of Themis",
+        "jp": "未定事件簿",
+        "kr": "미해결사건부"
+    },
+    "icon": "https://cdn.hoyobox.dev/static/images/games/tearsofthemis/icon.png",
+    "release_date": "2020-07-30",
+    "latest_version": "3.7.0"
+}

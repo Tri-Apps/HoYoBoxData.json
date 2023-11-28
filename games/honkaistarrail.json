@@ -1,0 +1,12 @@
+{
+    "id": "honkaistarrail",
+    "name_translations": {
+        "zh": "崩坏：星穹铁道",
+        "en": "Honkai: Star Rail",
+        "jp": "崩壊：スターレイル",
+        "kr": "붕괴: 스타레일"
+    },
+    "icon": "https://cdn.hoyobox.dev/static/images/games/honkaistarrail/icon.png",
+    "release_date": "2023-04-26",
+    "latest_version": "1.5.0"
+}
